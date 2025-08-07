@@ -6,3 +6,4 @@ uvicorn
 plotly
 fastapi
 prophet
+pymongo
